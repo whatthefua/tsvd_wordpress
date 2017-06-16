@@ -1,0 +1,3 @@
+- partner
+- form
+- skillz (1 - 5 Schulnoten)

@@ -1,0 +1,42 @@
+install:
+https://wordpress.org/plugins/members/
+https://wordpress.org/plugins/profile-builder/
+https://wordpress.org/plugins/nav-menu-roles/
+https://wordpress.org/plugins/php-everywhere/
+
+user > role > create role "Member" with "read" granted
+
+profile builder > general settings:
+	allow users to log in with: username and email
+	minimum password length: 6
+	minimum password strength: weak
+
+settings > general > membership:
+	anyone can register
+	set "Member" as default role
+
+profile builder > admin bar settings:
+	hide admin area for user
+
+profile builder > manage fields
+	set fields accordingly
+
+create page with script <code>[wppb-register role="Member"]</code>
+
+appearance > widgets:
+	add "Profile Builder Login Widget"
+	configure widget appropriately
+	remove meta tab
+
+create database registrations
+
+CREATE TABLE 17_08_05_badminton (
+	ID 	BIGINT(20) NOT NULL AUTO_INCREMENT,
+	userID BIGINT(20) NOT NULL,
+	double BOOLEAN NOT NULL,
+	double_partner VARCHAR(140),
+	doublemix BOOLEAN NOT NULL,
+	doublemix_partner VARCHAR(140),
+	skill SMALLINT,
+	PRIMARY KEY (ID)
+);
