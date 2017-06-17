@@ -1,0 +1,300 @@
+1
+Berlin	Berlin	
+3,275,000
+2
+Hamburg	Hamburg	
+1,686,100
+3
+München	Bavaria	
+1,185,400
+4
+Köln	Northrhine-Westfalia	
+965,300
+5
+Frankfurt	Hessen	
+648,000
+6
+Essen	Northrhine-Westfalia	
+588,800
+7
+Dortmund	Northrhine-Westfalia	
+587,600
+8
+Stuttgart	Baden-Württemberg	
+581,100
+9
+Düsseldorf	Northrhine-Westfalia	
+568,900
+10
+Bremen	Bremen	
+527,900
+11
+Hannover	Lower Saxony	
+516,300
+12
+Duisburg	Northrhine-Westfalia	
+513,400
+13
+Nürnberg	Bavaria	
+486,700
+14
+Leipzig	Saxony	
+486,100
+15
+Dresden	Saxony	
+473,300
+16
+Bochum	Northrhine-Westfalia	
+388,100
+17
+Wuppertal	Northrhine-Westfalia	
+365,400
+18
+Bielefeld	Northrhine-Westfalia	
+320,900
+19
+Bonn	Northrhine-Westfalia	
+307,500
+20
+Mannheim	Baden-Württemberg	
+306,100
+21
+Karlsruhe	Baden-Württemberg	
+279,600
+22
+Gelsenkirchen	Northrhine-Westfalia	
+276,200
+23
+Wiesbaden	Hessen	
+269,200
+24
+Münster	Northrhine-Westfalia	
+265,900
+25
+Mönchengladbach	Northrhine-Westfalia	
+264,400
+26
+Chemnitz	Saxony	
+255,600
+27
+Augsburg	Bavaria	
+253,800
+28
+Braunschweig	Lower Saxony	
+243,700
+29
+Aachen	Northrhine-Westfalia	
+241,300
+30
+Krefeld	Northrhine-Westfalia	
+238,000
+31
+Halle	Saxony-Anhalt	
+237,400
+32
+Kiel	Schleswig-Holstein	
+229,900
+33
+Magdeburg	Saxony-Anhalt	
+224,100
+34
+Oberhausen	Northrhine-Westfalia	
+221,700
+35
+Lübeck	Schleswig-Holstein	
+213,400
+36
+Freiburg	Baden-Württemberg	
+206,300
+37
+Hagen	Northrhine-Westfalia	
+201,700
+38
+Erfurt	Thuringia	
+195,000
+39
+Kassel	Hessen	
+193,500
+40
+Rostock	Mecklenburg-Vorpommern	
+192,100
+41
+Mainz	Rhineland-Palatinate	
+186,700
+42
+Hamm	Northrhine-Westfalia	
+180,300
+43
+Saarbrücken	Saarland	
+180,000
+44
+Herne	Northrhine-Westfalia	
+174,200
+45
+Mülheim	Northrhine-Westfalia	
+173,000
+46
+Solingen	Northrhine-Westfalia	
+164,500
+47
+Osnabrück	Lower Saxony	
+164,000
+48
+Ludwigshafen	Rhineland-Palatinate	
+162,000
+49
+Leverkusen	Northrhine-Westfalia	
+161,700
+50
+Oldenburg	Lower Saxony	
+157,600
+51
+Neuss	Northrhine-Westfalia	
+150,400
+52
+Paderborn	Northrhine-Westfalia	
+141,200
+53
+Heidelberg	Baden-Württemberg	
+139,700
+54
+Darmstadt	Hessen	
+137,800
+55
+Potsdam	Brandenburg	
+128,700
+56
+Würzburg	Bavaria	
+127,200
+57
+Göttingen	Lower Saxony	
+127,100
+58
+Regensburg	Bavaria	
+125,400
+59
+Recklinghausen	Northrhine-Westfalia	
+124,500
+60
+Bottrop	Northrhine-Westfalia	
+122,100
+61
+Wolfsburg	Lower Saxony	
+119,300
+62
+Heilbronn	Baden-Württemberg	
+118,500
+63
+Ingolstadt	Bavaria	
+118,000
+64
+Ulm	Baden-Württemberg	
+117,700
+65
+Remscheid	Northrhine-Westfalia	
+117,700
+66
+Pforzheim	Baden-Württemberg	
+117,100
+67
+Bremerhaven	Bremen	
+116,800
+68
+Offenbach	Hessen	
+115,500
+69
+Fürth	Bavaria	
+111,900
+70
+Reutlingen	Baden-Württemberg	
+111,400
+71
+Salzgitter	Lower Saxony	
+111,400
+72
+Siegen	Northrhine-Westfalia	
+108,900
+73
+Gera	Thuringia	
+108,800
+74
+Koblenz	Rhineland-Palatinate	
+108,800
+75
+Moers	Northrhine-Westfalia	
+106,600
+76
+Bergisch Gladbach	Northrhine-Westfalia	
+106,100
+77
+Cottbus	Brandenburg	
+105,000
+78
+Hildesheim	Lower Saxony	
+103,700
+79
+Witten	Northrhine-Westfalia	
+103,400
+80
+Zwickau	Saxony	
+100,900
+81
+Erlangen	Bavaria	
+100,100
+82
+Iserlohn	Northrhine-Westfalia	
+99,800
+83
+Trier	Rhineland-Palatinate	
+99,100
+84
+Kaiserslautern	Rhineland-Palatinate	
+98,800
+85
+Jena	Thuringia	
+97,500
+86
+Schwerin	Mecklenburg-Vorpommern	
+97,400
+87
+Gütersloh	Northrhine-Westfalia	
+97,100
+88
+Marl	Northrhine-Westfalia	
+94,500
+89
+Lünen	Northrhine-Westfalia	
+91,700
+90
+Esslingen	Baden-Württemberg	
+91,000
+91
+Velbert	Northrhine-Westfalia	
+90,500
+92
+Ratingen	Northrhine-Westfalia	
+89,800
+93
+Düren	Northrhine-Westfalia	
+89,600
+94
+Ludwigsburg	Baden-Württemberg	
+88,000
+95
+Wilhelmshaven	Lower Saxony	
+87,800
+96
+Hanau	Hessen	
+86,400
+97
+Minden	Northrhine-Westfalia	
+84,400
+98
+Flensburg	Schleswig-Holstein	
+83,800
+99
+Dessau	Saxony-Anhalt	
+81,800
+100
+Villingen-Schwenningen	Baden-Württemberg	
+81,500

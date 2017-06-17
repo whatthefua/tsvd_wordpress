@@ -1,0 +1,26 @@
+1	Arts
+1.1	Performing arts
+1.2	Visual arts
+2	Humanities
+2.1	Geography
+2.2	History
+2.3	Languages and literature
+2.4	Philosophy
+2.5	Theology
+3	Social sciences
+3.1	Economics
+3.2	Law
+3.3	Political science
+3.4	Psychology
+3.5	Sociology
+4	Natural sciences
+4.1	Biology
+4.2	Chemistry
+4.3	Earth and space sciences
+4.4	Mathematics
+4.5	Physics
+5	Applied sciences
+5.1	Agriculture and agricultural sciences
+5.2	Computer science
+5.3	Engineering and technology
+5.4	Medicine and health sciences
